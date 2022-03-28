@@ -14,3 +14,11 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.detail img {
+  width: 100%;
+}
+
+.detail {
+  text-align: center;
+}
